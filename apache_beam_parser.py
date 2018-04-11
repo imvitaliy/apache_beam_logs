@@ -14,7 +14,7 @@ from apache_beam.options.pipeline_options import SetupOptions
 
 
 FOLDER = "result-folder"
-ORIGIN_FOLDER = "santander"
+ORIGIN_FOLDER = "folder"
 FOLDER_CONTENT = []
 
 def get_directory_contents(sPath):
